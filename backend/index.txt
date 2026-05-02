@@ -1,1 +1,2 @@
-
+Backend de l'application (API, base de données)
+Technologies possibles : Node.js / Firebase

@@ -1,1 +1,5 @@
-
+Empathize : comprendre les utilisateurs
+Define : problème de recommandation
+Ideate : système basé sur le temps de visionnage
+Prototype : interface vidéo
+Test : feedback utilisateur
